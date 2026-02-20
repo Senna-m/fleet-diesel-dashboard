@@ -50,14 +50,3 @@ Este projeto foi desenvolvido como estudo aplicado em Ciência de Dados e Backen
 
 ---
 
-## 📂 Estrutura do Projeto
-
-📁 assistente-trafego
-│-- app.py
-│-- main.py
-│-- modelo.pkl
-│-- requirements.txt
-│-- dados/
-│-- notebooks/
-│-- services/
-│-- routes/
