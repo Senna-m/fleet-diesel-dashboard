@@ -24,6 +24,8 @@ Com essas informações, o sistema recomenda o veículo mais adequado para uma n
 
 Este projeto foi desenvolvido como estudo aplicado em Ciência de Dados e Backend.
 
+### LINK
+https://projeto-grou-ls3nv3phafs4t7jf9qe3cv.streamlit.app
 ---
 
 ## 🛠️ Tecnologias Utilizadas
