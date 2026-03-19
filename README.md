@@ -18,7 +18,6 @@ Empresas de transporte turístico precisam escolher qual veículo usar em cada r
 | ML / Modelo | CatBoost (`.cbm`) |
 | Análise de dados | Pandas, Scikit-learn |
 | Visualização | Matplotlib |
-| Backend / API | FastAPI / Flask + Uvicorn |
 | Frontend / Deploy | Streamlit |
 | Treinamento | Google Colab |
 
@@ -57,9 +56,6 @@ Projeto-Grou/
 ├── modelo_diesel.cbm       # Modelo CatBoost treinado e exportado
 ├── requirements.txt        # Dependências do projeto
 ├── data/                   # Dados históricos de abastecimento e rotas
-├── projeto/                # Notebooks de análise e treinamento
-│   └── *.ipynb             # EDA, feature engineering, treinamento
-└── catboost_info/          # Logs de treinamento do modelo
 ```
 
 ---
